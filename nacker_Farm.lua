@@ -1,7 +1,7 @@
 --// Variables
 
 local plr = game.Players.LocalPlayer
-local char = plr.Character or plr.CharacterAdded:Wait()
+local char = plr.Character
 
 --// Main function
 
